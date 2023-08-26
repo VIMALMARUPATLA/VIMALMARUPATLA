@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VIMALMARUPATLA
-- 👀 I’m interested in Java, Crypto, Bloackchain
+- 👀 I’m interested in Java, Crypto, Blockchain
 - 🌱 I’m currently learning Crypto, Bloackchain
 - 💞️ I’m looking to collaborate on projects on Java with AWS
 - 📫 How to reach me, Call me on +81-8008253444
